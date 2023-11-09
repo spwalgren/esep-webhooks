@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "sBnC98TVUFO+5ezTcrJ1HNKWvQXhdHt0+QP3I5Pm1AOyHS00lFkR5HJhroNqeOdoeXcowkOpk6lDpKQ2mu0Xrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Spencer\\Desktop\\School\\CurrentClasses\\CIS4930\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Spencer\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\Spencer\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.1\\amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
+    "C:\\Users\\Spencer\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Spencer\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Spencer\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\6.0.14\\microsoft.netcore.app.runtime.linux-x64.6.0.14.nupkg.sha512",
+    "C:\\Users\\Spencer\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Spencer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Spencer\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\6.0.14\\microsoft.aspnetcore.app.runtime.linux-x64.6.0.14.nupkg.sha512",
+    "C:\\Users\\Spencer\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.14\\microsoft.netcore.app.crossgen2.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
